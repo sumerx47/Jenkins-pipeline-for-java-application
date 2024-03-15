@@ -1,4 +1,4 @@
-# Jenkins-pipeline-for-java-application
+# Setup CI/CD Pipeline using Jenkins for java application
 
 
 Install Jenkins, configure Docker as agent, set up cicd, deploy applications to k8s and much more.
